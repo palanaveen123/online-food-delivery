@@ -1,0 +1,219 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    padding: 20px;
+}
+
+.about-section {
+    margin-bottom: 20px;
+}
+
+.section-header {
+    background-color: #ff6347;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.section-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.chef-section {
+    margin-top: 20px;
+}
+
+.chef-box {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.chef-box:last-child {
+    border-bottom: none;
+}
+
+.chef-box img {
+    border-radius: 50%;
+    margin-right: 20px;
+    width: 80px;
+    height: 80px;
+}
+
+.chef-details {
+    font-size: 16px;
+}
+
+.chef-title {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.register-container {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    padding: 40px;
+    width: 400px;
+    text-align: center;
+}
+
+.register-container h2 {
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #e74c3c;
+}
+
+.register-form form {
+    display: flex;
+    flex-direction: column;
+}
+
+.register-form label {
+    margin-bottom: 5px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.register-form input {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.register-form button {
+    padding: 15px;
+    background-color: #e74c3c;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.register-form button:hover {
+    background-color: #c0392b;
+}
+
+.register-form p {
+    margin-top: 10px;
+}
+
+.register-form a {
+    color: #e74c3c;
+    text-decoration: none;
+}
+
+.register-form a:hover {
+    text-decoration: underline;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-container {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    padding: 40px;
+    width: 360px;
+    text-align: center;
+}
+
+.login-container h2 {
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #e74c3c;
+}
+
+.login-form form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form label {
+    margin-bottom: 5px;
+    text-align: left;
+    font-weight: bold;
+}
+
+.login-form input {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.login-form button {
+    padding: 15px;
+    background-color: #e74c3c;
+    border: none;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.login-form button:hover {
+    background-color: #c0392b;
+}
+
+.login-form p {
+    margin-top: 10px;
+}
+
+.login-form a {
+    color: #e74c3c;
+    text-decoration: none;
+}
+
+.login-form a:hover {
+    text-decoration: underline;
+}
